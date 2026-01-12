@@ -16,12 +16,12 @@
 - [x] Task: Implement Hexadecimal utilities for logging and debugging ad4acca
 - [x] Task: Conductor - User Manual Verification 'Phase 2: UUIDv7 Generation Engine' (Protocol in workflow.md) 286b661
 
-## Phase 3: MongoDB Persistence & Converters
+## Phase 3: MongoDB Persistence & Converters [checkpoint: beb4ffb]
 
 - [x] Task: Write Failing Tests for UUIDv7 to MongoDB BinData conversion 8f44dd9
 - [x] Task: Implement Custom WritingConverter and ReadingConverter for Spring Data MongoDB 8f44dd9
-- [ ] Task: Write Failing Integration Test using Testcontainers to verify index efficiency and storage
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: MongoDB Persistence & Converters' (Protocol in workflow.md)
+- [x] Task: Write Failing Integration Test using Testcontainers to verify index efficiency and storage beb4ffb
+- [x] Task: Conductor - User Manual Verification 'Phase 3: MongoDB Persistence & Converters' (Protocol in workflow.md) beb4ffb
 
 ## Phase 4: ArchUnit Hardening (RLS Enforcement)
 
