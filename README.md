@@ -1,4 +1,4 @@
-# MongoDB ID & Index Architect
+# MongoDB ID Generator
 
 Enterprise-grade UUIDv7 generation and Spring Data MongoDB integration library for time-ordered identifiers and hardened security enforcement.
 
