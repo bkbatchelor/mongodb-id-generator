@@ -4,7 +4,7 @@
 
 - [x] Task: Initialize Gradle project with Java 21, Kotlin DSL, and Spring Boot 3.5.9 a859fa2
 - [x] Task: Configure build.gradle.kts with dependencies: Spring Data MongoDB, ArchUnit, JUnit 5, jqwik, Pitest, and Testcontainers a859fa2
-- [ ] Task: Conductor - User Manual Verification 'Phase 1: Project Scaffolding' (Protocol in workflow.md)
+- [~] Task: Conductor - User Manual Verification 'Phase 1: Project Scaffolding' (Protocol in workflow.md)
 
 ## Phase 2: UUIDv7 Generation Engine
 

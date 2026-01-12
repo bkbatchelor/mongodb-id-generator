@@ -3,7 +3,7 @@ plugins {
     id("info.solidsoft.pitest") version "1.15.0"
 }
 
-group = "com.mongodb.id.generator"
+group = "io.sandboxdev.id.generator"
 version = "0.0.1-SNAPSHOT"
 
 java {
@@ -19,22 +19,22 @@ repositories {
 dependencies {
     // Spring Boot BOM
     implementation(platform("org.springframework.boot:spring-boot-dependencies:3.5.9"))
-    
+
     // Core Dependencies
     implementation("org.springframework.data:spring-data-mongodb")
-    
+
     // Test Dependencies
     testImplementation(platform("org.junit:junit-bom:5.11.0"))
     testImplementation("org.junit.jupiter:junit-jupiter")
-    
+
     testImplementation("net.jqwik:jqwik:1.9.1")
-    
+
     testImplementation("com.tngtech.archunit:archunit-junit5:1.3.0")
-    
+
     testImplementation(platform("org.testcontainers:testcontainers-bom:1.20.1"))
     testImplementation("org.testcontainers:junit-jupiter")
     testImplementation("org.testcontainers:mongodb")
-    
+
     testImplementation("org.assertj:assertj-core:3.26.3")
 }
 
