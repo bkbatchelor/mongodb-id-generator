@@ -18,8 +18,8 @@
 
 ## Phase 3: MongoDB Persistence & Converters
 
-- [ ] Task: Write Failing Tests for UUIDv7 to MongoDB BinData conversion
-- [ ] Task: Implement Custom WritingConverter and ReadingConverter for Spring Data MongoDB
+- [x] Task: Write Failing Tests for UUIDv7 to MongoDB BinData conversion 8f44dd9
+- [x] Task: Implement Custom WritingConverter and ReadingConverter for Spring Data MongoDB 8f44dd9
 - [ ] Task: Write Failing Integration Test using Testcontainers to verify index efficiency and storage
 - [ ] Task: Conductor - User Manual Verification 'Phase 3: MongoDB Persistence & Converters' (Protocol in workflow.md)
 
