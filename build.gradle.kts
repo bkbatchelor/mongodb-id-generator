@@ -21,9 +21,10 @@ dependencies {
     implementation(platform("org.springframework.boot:spring-boot-dependencies:3.5.9"))
 
     // Core Dependencies
-    implementation("org.springframework.data:spring-data-mongodb")
+    implementation("org.springframework.boot:spring-boot-starter-data-mongodb")
 
     // Test Dependencies
+    testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation(platform("org.junit:junit-bom:5.11.0"))
     testImplementation("org.junit.jupiter:junit-jupiter")
 
