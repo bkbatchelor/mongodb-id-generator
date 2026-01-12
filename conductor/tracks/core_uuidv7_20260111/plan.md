@@ -23,13 +23,13 @@
 - [x] Task: Write Failing Integration Test using Testcontainers to verify index efficiency and storage beb4ffb
 - [x] Task: Conductor - User Manual Verification 'Phase 3: MongoDB Persistence & Converters' (Protocol in workflow.md) beb4ffb
 
-## Phase 4: ArchUnit Hardening (RLS Enforcement)
+## Phase 4: ArchUnit Hardening (RLS Enforcement) [checkpoint: 7d4e671]
 
 - [x] Task: Write Failing ArchUnit tests to detect repository methods lacking UserId a688f56
 - [x] Task: Implement ArchUnit rules for "Hardened Signature" enforcement a688f56
-- [ ] Task: Write Failing Tests for Query Buffer strategy (Max Skew Window)
-- [ ] Task: Implement Query Buffer logic with transparent adjustment and logging
-- [ ] Task: Conductor - User Manual Verification 'Phase 4: ArchUnit Hardening' (Protocol in workflow.md)
+- [x] Task: Write Failing Tests for Query Buffer strategy (Max Skew Window) 7d4e671
+- [x] Task: Implement Query Buffer logic with transparent adjustment and logging 7d4e671
+- [x] Task: Conductor - User Manual Verification 'Phase 4: ArchUnit Hardening' (Protocol in workflow.md) 7d4e671
 
 ## Phase 5: Finalization & Quality Gates
 
