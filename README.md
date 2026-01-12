@@ -18,7 +18,7 @@ Enterprise-grade UUIDv7 generation and Spring Data MongoDB integration library f
 ## Installation
 
 ```kotlin
-implementation("io.sandboxdev.id.generator:mongodb-id-generator:0.0.1-SNAPSHOT")
+implementation("io.sandboxdev:mongodb-id-generator:0.0.1-SNAPSHOT")
 ```
 
 ## Usage
