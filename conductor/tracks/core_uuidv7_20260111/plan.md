@@ -25,8 +25,8 @@
 
 ## Phase 4: ArchUnit Hardening (RLS Enforcement)
 
-- [ ] Task: Write Failing ArchUnit tests to detect repository methods lacking UserId
-- [ ] Task: Implement ArchUnit rules for "Hardened Signature" enforcement
+- [x] Task: Write Failing ArchUnit tests to detect repository methods lacking UserId a688f56
+- [x] Task: Implement ArchUnit rules for "Hardened Signature" enforcement a688f56
 - [ ] Task: Write Failing Tests for Query Buffer strategy (Max Skew Window)
 - [ ] Task: Implement Query Buffer logic with transparent adjustment and logging
 - [ ] Task: Conductor - User Manual Verification 'Phase 4: ArchUnit Hardening' (Protocol in workflow.md)
